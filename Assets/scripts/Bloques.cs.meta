@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 625571011b9c2644aab306957bcdb73b
+timeCreated: 1494778099
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - efectoParticulas: {fileID: 1074297672175370, guid: 35fb128df59250c49b7cff8a849e2c2a,
+      type: 2}
+  - efectoParticulas2: {fileID: 1074297672175370, guid: a73e84eecd128234f8c9b0dd98b80ef1,
+      type: 2}
+  - efectoParticulas3: {fileID: 1074297672175370, guid: 688a66447f903d849a2cd87926a3c9cd,
+      type: 2}
+  - efectoParticulas4: {fileID: 1074297672175370, guid: a42e304b1910a5f43af9119e2bc84965,
+      type: 2}
+  - puntos: {instanceID: 0}
+  - material3: {fileID: 2100000, guid: fc70897147ccbae4d99fdfbd564e2c70, type: 2}
+  - material2: {fileID: 2100000, guid: 19436ecba2f95794e8ccd61eb90344f3, type: 2}
+  - material1: {fileID: 925093280, guid: 0d76c16be9c1b1848af3c4c77321fab7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

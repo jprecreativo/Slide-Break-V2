@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e52f6bbf40a08964584acfbfacc7baa0
+timeCreated: 1494920050
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nivelCompletadoText: {instanceID: 0}
+  - juegoTerminadoText: {instanceID: 0}
+  - botonContinuar: {instanceID: 0}
+  - botonPuntuacion: {instanceID: 0}
+  - pelota: {instanceID: 0}
+  - barra: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - completado: {fileID: 8300000, guid: 12bad0dc69ee0dd4785858630c8b44f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

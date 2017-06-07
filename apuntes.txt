@@ -1,0 +1,36 @@
+-como agregar un fondo:
+https://www.youtube.com/watch?v=9EbPxAZ9kyc
+
+IMPORTANTE:
+-Detectado el error que tarda muchisimo en volver a cargar la escena del menú, no me preguntes por qué, pero el error
+se soluciona si en la pantalla en la que hago el loadScene() hay al menos un bloque aunque esté oculto, ASI QUE NO
+BORRAR EL BLOQUE QUE ESTÁ OCULTO EN LA PANTALLA DE OPCIONES.
+
+cosas a hacer:
+-cambiar todo el estilo del nivel 2 (bloques, fondo, etc) para hacerlo parecer un nivel nuevo *
+-con las probabilidades de los objetos, se pueden hacer muchas mejoras, cada vez que suelte un objeto, 
+ese objeto pierde probabilidad de salir otra vez, aumentado la de los otros de su mismo tipo (bueno o malo), *
+otra cosa, cuando le queden pocas vidas, bajar la probabilidad que salga el restaVida, y al contrario con sumaVida. *
+otra cosa, si pasa mucho tiempo en un mismo nivel, aumentar probabilidad objetos "buenos", *
+otra cosa, al pasar nivel, aumentar un poco probabilidad objetos "malos" *
+-cuando pase un cierto tiempo en un nivel subir probabilidad objetos buenos. *
+-buscar otras musicas para el juego (por lo menos para cuando completas un nivel, la actual es una mierda) *
+-opcional: añadir un sonido a los proyectiles que salen de la barra y a la bola que te lanza el bloque
+-en nivel 2 y 3, no dejar colar la pelota entre los bloques y las columnas inicialmente, colocar bloques pegados
+a las columnas *
+-crear escena modo estandar (pantallazos estructura niveles, botones debajo y boton volver) *
+-crear escena puntuaciones *
+-crear escena ranking *
+-
+
+Fórmula cálculo puntos:
+
+(int) 1000 - (toques * 0.6) - (tiempo(s) * 0.4) + vidas
+
+Bibliografía:
+
+https://www.freesound.org/people/fins/sounds/133284/
+https://www.dl-sounds.com/royalty-free/videogame2/
+https://www.playonloop.com/2016-music-loops/the-blacklist/
+
+errores:
