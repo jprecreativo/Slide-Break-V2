@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 495}
   m_MaxSize: {x: 18008, y: 14045}
   vertical: 0
-  controlID: 214
+  controlID: 404
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 215
+  controlID: 405
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 495}
   m_MaxSize: {x: 10004, y: 14045}
   vertical: 1
-  controlID: 240
+  controlID: 337
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -489,9 +489,9 @@ MonoBehaviour:
     height: 258
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 34250000
     m_LastClickedID: 0
-    m_ExpandedIDs: 18f8ffffcef8ffff84f9ffff3afaffffe0faffffe0fbffff00000000
+    m_ExpandedIDs: 1ef8ffff80f9ffff2cfaffffe0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,18 +551,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/escenas
+    - Assets/TornadoBanditsStudio
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/escenas
+  - Assets/TornadoBanditsStudio
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\jose_\Documents\UnityProjects\Rompe_Bloques_3D
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a250000
-    m_LastClickedID: 9610
+    m_SelectedIDs: a2250000
+    m_LastClickedID: 9634
     m_ExpandedIDs: 00000000f6240000e6250000522600007c260000082700001a2700003e270000d6280000d8280000da280000dc28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300002a260000a0260000da2800007c2600007825000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

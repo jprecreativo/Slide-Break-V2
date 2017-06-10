@@ -28,7 +28,8 @@ public class Timer : MonoBehaviour {
         if(segundos >= 60) {
             minutos++;
 
-            Probabilidades.prob_bueno += 10;
+            if(Probabilidades.prob_bueno < 100)
+                Probabilidades.prob_bueno += 10;
 
             segundos = 0.0f;
         }
